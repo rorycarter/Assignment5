@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChainOfResponsibility:war">
+    <output-path>$PROJECT_DIR$/ChainOfResponsibility/target</output-path>
+    <root id="archive" name="ChainOfResponsibility-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ChainOfResponsibility:war exploded" />
+    </root>
+  </artifact>
+</component>
